@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 <img width="418" height="732" alt="pixel" src="https://github.com/user-attachments/assets/08cbb562-3630-4735-ba9a-01886a0e9bd7" />
-<img width="512" height="512" alt="icone-html-violettepng" src="https://github.com/user-attachments/assets/5949f44e-1d4f-4002-a983-a7b21ab40dc2" />
-<img width="500" height="500" alt="L_height-Photoroom (1)" src="https://github.com/user-attachments/assets/0ccbbb4e-c44a-4283-a8fb-14cb3994c6da" />
-<img width="500" height="500" alt="L_height-Photoroom" src="https://github.com/user-attachments/assets/f52b77e8-fdcb-4183-aa01-ec9f7796db1b" />
+<br>
 
-<img width="500" height="500" alt="L_height" src="https://github.com/user-attachments/assets/5239f939-2a1d-4f13-94a6-770dfc40a2c5" />
-<img width="318" height="159" alt="images (1)" src="https://github.com/user-attachments/assets/8ed49aac-cbb7-4486-a55c-1df5974cfb68" />
+<h2 align="center">𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h2>
+<p align="center"><img width="50" height="50" alt="icons8-javascript-logo-50" src="https://github.com/user-attachments/assets/de7c7545-68a9-41a1-b06a-d6cbfe1f21a7" />
+<img width="50" height="50" alt="icons8-html-5-50" src="https://github.com/user-attachments/assets/31629ff4-d21e-47c4-b71a-dc7c98505673" />
+<img width="55" height="55" alt="icons8-css3-50" src="https://github.com/user-attachments/assets/7f6c8be8-39a2-44f7-ac5e-dc3cb5d092ed" /></p>
 
