@@ -3,6 +3,4 @@
 
 
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/82be4ed2-4084-460f-be76-3e078c8482d4" autoplay loop muted playsinline width="100%"></video>
-</p>
+
